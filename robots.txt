@@ -1,0 +1,4 @@
+User-agent : *
+User-agent : AdsBot-Google
+Disallow : /mentions.php
+Sitemap: https://www.music-melody-rouen.fr/sitemap.xml
